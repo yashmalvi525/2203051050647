@@ -1,7 +1,6 @@
 
 📌 **Roll Number**: 2203051050647  
-👨‍💻 **Name**: Yash Kumar
----
+
 
 ```markdown
 # 🎯 ShortLink Pro – Advanced URL Shortener with Analytics
