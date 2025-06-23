@@ -135,12 +135,4 @@ Go to: [http://localhost:3000](http://localhost:3000)
 * **Enrollment Number**: 2203051050647
 * **Track**: Frontend
 
----
 
-```
-
-✅ Let me know if you want:
-- The Markdown file zipped
-- A backend API version
-- Logger file (`logger.ts`) auto-generated
-```
