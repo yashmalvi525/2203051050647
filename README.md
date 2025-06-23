@@ -129,8 +129,6 @@ Go to: [http://localhost:3000](http://localhost:3000)
 ---
 
 ## 👨‍💻 Submitted By
-
-* **Name**: Yash Kumar
 * **Enrollment Number**: 2203051050647
 * **Track**: Frontend
 
